@@ -3,4 +3,4 @@ Este repositório contém os exercícios e anotações do curso **"Python do Zer
 Estou usando este espaço para armazenar meus códigos, anotações e aprendizados durante o curso.
 
 ## Sobre o Curso
-Curso está disponíve na [Udemy][https://www.udemy.com/course/python-3-do-zero-ao-avancado], ministrado por **Luiz Otávio Miranda**
+Curso está disponíve na [Udemy](https://www.udemy.com/course/python-3-do-zero-ao-avancado), ministrado por **Luiz Otávio Miranda**
