@@ -28,7 +28,7 @@ while True:
     if operador not in operadores_permitidos:
         print('Operador inválido.')
         continue
-
+    
     if len(operador) > 1:
         print('Digite apenas um operador.')
         continue
